@@ -1,0 +1,9 @@
+{
+  "extends": ["../../.eslintrc"],
+  "parserOptions": {
+    "requireConfigFile": false
+  },
+  "env": {
+    "browser": true
+  }
+}

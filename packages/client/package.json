@@ -1,0 +1,21 @@
+{
+  "name": "client",
+  "version": "0.0.1",
+  "private": true,
+  "license": "CC-BY-NC-SA-4.0",
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview",
+    "test": "vitest --watch"
+  },
+  "dependencies": {
+    "classnames": "^2.3.1",
+    "open-props": "^1.4.14"
+  },
+  "devDependencies": {
+    "vite": "3.1.0",
+    "vite-plugin-compression": "^0.5.1"
+  }
+}
