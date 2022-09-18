@@ -1,7 +1,8 @@
 /**
- * Say message
- * @param {string} message - message
- * @returns {string}
+ * Say something
+ *
+ * @param {string} message
+ * @return {void}
  */
 function saySomething(message) {
   console.log(message);
