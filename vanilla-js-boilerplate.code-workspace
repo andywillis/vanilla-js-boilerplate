@@ -10,6 +10,7 @@
 		],
 		"vitest.commandLine": "npx vitest",
 		"vitest.enable": true,
+		"js/ts.implicitProjectConfig.checkJs": true,
 		"testing.automaticallyOpenPeekView": "never"
 	}
 }
